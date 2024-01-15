@@ -18,5 +18,4 @@ const CampoTexto = (props) => {
         </div>
     )
 }
-
 export default CampoTexto
